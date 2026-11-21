@@ -3,6 +3,7 @@
 Reviews a FortiGate policy export the way a Tufin owner would — every finding gets an owner, an expiry and a change request a customer's network team can act on.
 
 <!-- claims: rules=9 findings=9 critical=1 clean=0 -->
+**Operating procedure:** [docs/SOP.md](docs/SOP.md) — how to run it, who approves, and what to do when it fails.
 
 ## What it looks for
 
